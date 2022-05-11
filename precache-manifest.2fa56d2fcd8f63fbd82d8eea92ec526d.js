@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/near-marketplace/static/media/my_logo.1d221eaf.png"
   },
   {
-    "revision": "1ed478a6b265d4b4f5c26bb063203588",
-    "url": "/near-marketplace/static/media/bootstrap-icons.1ed478a6.woff2"
-  },
-  {
     "revision": "e4cc83ddcec34db65724eb56c5230b4c",
     "url": "/near-marketplace/static/media/bootstrap-icons.e4cc83dd.woff"
+  },
+  {
+    "revision": "1ed478a6b265d4b4f5c26bb063203588",
+    "url": "/near-marketplace/static/media/bootstrap-icons.1ed478a6.woff2"
   },
   {
     "revision": "07e915bd6401684b472340a106d2b456",
