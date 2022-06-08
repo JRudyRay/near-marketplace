@@ -1,3 +1,6 @@
+# Take a look at the project --> https://jrudyray.github.io/near-marketplace/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
