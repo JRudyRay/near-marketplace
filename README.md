@@ -1,4 +1,4 @@
-# Take a look at the project --> https://jrudyray.github.io/near-marketplace/
+Take a look at the project --> https://jrudyray.github.io/near-marketplace/
 
 
 # Getting Started with Create React App
